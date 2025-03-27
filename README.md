@@ -15,7 +15,7 @@
 
 🔹 [Meu Portfólio](https://github.com/AndreSchimith05)
 
-🔹 [Projeto X](https://github.com/seu-usuario) 
+🔹 [Projeto Site de Viagem dos Herois ](https://andreschimith05.github.io/projeto-site-viagem/)
 
 ![AndreSchimith05](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSchimith05&layout=compact)
 
