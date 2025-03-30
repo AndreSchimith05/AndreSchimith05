@@ -15,7 +15,7 @@
 
 🔹 [Projeto Site de Viagem dos Herois ](https://andreschimith05.github.io/projeto-site-viagem/)
 
-🔹 [Projeto Login com validação ](https://andreschimith05.github.io/formulario-validacao/))
+🔹 [Projeto Login com validação ](https://andreschimith05.github.io/formulario-validacao/)
 
 ![AndreSchimith05](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSchimith05&layout=compact)
 
