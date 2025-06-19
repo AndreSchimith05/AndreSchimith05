@@ -14,7 +14,7 @@
 ## 📌 Projetos em Destaque  
 
 
-🔹 [Projeto Site de Viagem dos Herois ](https://andreschimith05.github.io/projeto-site-viagem/)
+🔹 [Projeto Site de Viagem dos Herois ](https://andreschimith05.github.io/projetoHerois/)
 
 🔹 [Projeto Login com validação ](https://andreschimith05.github.io/formulario-validacao/)
 
