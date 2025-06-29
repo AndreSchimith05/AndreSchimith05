@@ -21,7 +21,7 @@
 
 🔹 [Projeto Login com validação ](https://andreschimith05.github.io/formulario-validacao-apenasLogin/)
 
-🔹 [Projeto Escolha de Plano ](https://andreschimith05.github.io/planoInternet/)
+🔹 [Calculadora de IMC ](https://andreschimith05.github.io/tabelaIMC/)
 
 ![AndreSchimith05](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSchimith05&layout=compact)
 
